@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26281" started-at="2020-03-16T11:58:17 IST" finished-at="2020-03-16T11:58:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26281" started-at="2020-03-16T11:58:17 IST" finished-at="2020-03-16T11:58:43 IST">
+      <class name="com.sit.anchal.test.TestCases">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.sit.anchal.test.TestCases@1efed156]" name="loginTest" duration-ms="17769" started-at="2020-03-16T11:58:17 IST" finished-at="2020-03-16T11:58:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="addBeneficiary()[pri:1, instance:com.sit.anchal.test.TestCases@1efed156]" name="addBeneficiary" duration-ms="8466" started-at="2020-03-16T11:58:34 IST" finished-at="2020-03-16T11:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBeneficiary -->
+      </class> <!-- com.sit.anchal.test.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
